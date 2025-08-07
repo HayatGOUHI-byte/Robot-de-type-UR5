@@ -2,6 +2,8 @@
 ---
 La collecte et le nettoyage des données des robots de type UR5 🤖 : la vélocité 🏃‍♂️, l’accélération ⚡, les positions 📍, la vitesse 🚀. La prognostique 🔮 et la prédiction future 📈 des robots.
 
+---
+
 
 <img width="342" height="202" alt="3" src="https://github.com/user-attachments/assets/ecac43b3-d217-4fd5-b1ba-3919152dd997" />
 <img width="360" height="247" alt="2" src="https://github.com/user-attachments/assets/0aa0b8a6-4d7b-4afc-920c-6b65cd80024e" />
